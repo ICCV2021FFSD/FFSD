@@ -1,4 +1,4 @@
-## Distilling Powerful Student Model via Online Knowledge Distillation 
+## Distilling Powerful Student Model via Online Knowledge Distillation  
 
 <div align=center><img src="img/framework.png" height = "50%" width = "60%"/></div>
 
