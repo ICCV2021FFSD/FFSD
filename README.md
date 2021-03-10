@@ -88,7 +88,3 @@ python test.py
 	--gpu_ids 0
 	--load_path ./resnet32/cifar100_resnet32_div1e-5_sd1000_fusion10_1/modelleader_best.pth
 ```
-
-### Tips
-
-Any problem, free to contact the authors via emails:[shaojieli@stu.xmu.edu.cn](mailto:shaojieli@stu.xmu.edu.cn).
