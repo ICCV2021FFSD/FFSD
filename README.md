@@ -54,29 +54,29 @@ We provide the student leader models in the experiments, along with their traini
 
 |   Model   |  Dataset  | Top1 Accuracy (%) |                           Download                           |
 | :-------: | :-------: | :---------------: | :----------------------------------------------------------: |
-| ResNet20  | CIFAR-100 |       72.64       | [Link](https://drive.google.com/drive/folders/1FdQK5LQ3e1S0qCJ-FMZkg6J1OfzNJLDm?usp=sharing) |
-| ResNet20  | CIFAR-100 |       72.58       | [Link](https://drive.google.com/drive/folders/1N75ZLmAoEqu6zmdIJrQx1h5drvJ7NpnN?usp=sharing) |
-| ResNet20  | CIFAR-100 |       72.88       | [Link](https://drive.google.com/drive/folders/1hLxVQcgAwMYDQxjTG7A1Z4n4sIJfscpd?usp=sharing) |
-| ResNet32  | CIFAR-100 |       74.92       | [Link](https://drive.google.com/drive/folders/1ahxHYcJMwSWq1iu3fSCa0hmyjW2BYLW_?usp=sharing) |
-| ResNet32  | CIFAR-100 |       74.82       | [Link](https://drive.google.com/drive/folders/1SV9572h1TnpiDP8T0wrv0OakltnOBsu8?usp=sharing) |
-| ResNet32  | CIFAR-100 |       74.82       | [Link](https://drive.google.com/drive/folders/1T7TaV4lvdvjZS3k3n_2O0eXMJ1pDspIH?usp=sharing) |
-| ResNet56  | CIFAR-100 |       75.84       | [Link](https://drive.google.com/drive/folders/1Xrwq1Vc-dmUw6MbOFZoAPgJ3RHOHJ5jg?usp=sharing) |
-| ResNet56  | CIFAR-100 |       75.66       | [Link](https://drive.google.com/drive/folders/1wQ2c4rxc8FuspUwG-I0pwP5R40gyX8NV?usp=sharing) |
-| ResNet56  | CIFAR-100 |       75.91       | [Link](https://drive.google.com/drive/folders/1gLU6uBQAl24R4lN248dKqZYa8g525Cbq?usp=sharing) |
-| WRN-16-2  | CIFAR-100 |       75.87       | [Link](https://drive.google.com/drive/folders/1MF7VLcDjQWAXfe1I39irevrBN0ZgpgNR?usp=sharing) |
-| WRN-16-2  | CIFAR-100 |       75.86       | [Link](https://drive.google.com/drive/folders/1FDOfUC1SV59D0vUAsgcBT0Dqctu3Z8Wv?usp=sharing) |
-| WRN-16-2  | CIFAR-100 |       75.69       | [Link](https://drive.google.com/drive/folders/1rcxQ_pBF1M5VGuPU_Zla3hl8IVqfsPOv?usp=sharing) |
-| WRN-40-2  | CIFAR-100 |       79.13       | [Link](https://drive.google.com/drive/folders/1ECtkuM5-5ZAP4q6Gaszky3SNLWsTMhv5?usp=sharing) |
-| WRN-40-2  | CIFAR-100 |       79.19       | [Link](https://drive.google.com/drive/folders/1TSn2oyQuRVteJIwt3nC9p5YUKGxKOJc_?usp=sharing) |
-| WRN-40-2  | CIFAR-100 |       79.11       | [Link](https://drive.google.com/drive/folders/1Y92sxigZ4mVMyXoRMjCUvhbo6T2EvMnN?usp=sharing) |
-| DenseNet  | CIFAR-100 |       77.29       | [Link](https://drive.google.com/drive/folders/1r4zCULZVXDSz1wZTn9yDa_Vz9ILpivoR?usp=sharing) |
-| DenseNet  | CIFAR-100 |       77.70       | [Link](https://drive.google.com/drive/folders/1GWVBY3FtbK_EPULmO_A-8dNIc0DXniUv?usp=sharing) |
-| DenseNet  | CIFAR-100 |       77.17       | [Link](https://drive.google.com/drive/folders/19GfMvI78UHuXGYjEZ6P1jWs3aGvxk46k?usp=sharing) |
-| GoogLeNet | CIFAR-100 |       81.52       | [Link](https://drive.google.com/drive/folders/1GHKJCrZTqzxZAMSy-s3uGjDY_ee-eRoK?usp=sharing) |
-| GoogLeNet | CIFAR-100 |       81.93       | [Link](https://drive.google.com/drive/folders/1yGY8vdiLDsilAHwNF6guMd9Rx-veQTA3?usp=sharing) |
-| GoogLeNet | CIFAR-100 |       81.34       | [Link](https://drive.google.com/drive/folders/1QExEqMfsIQaPX3egXp72Teq9DuT0yjnj?usp=sharing) |
-| ResNet-18 | ImageNet  |       70.87       | [Link](https://drive.google.com/drive/folders/10METcMuXLC14L48R3NgJahssVgZsAiJT?usp=sharing) |
-| ResNet-34 | ImageNet  |       74.69       | [Link](https://drive.google.com/drive/folders/1mFlbgc_EPruHRKgaIS8K3wKDytGS0Keq?usp=sharing) |
+| ResNet20  | CIFAR-100 |       72.64       | [Link](https://drive.google.com/drive/folders/1s6HCEd1dfQkvTdgA1ObNIvk0dGPCWOeF?usp=sharing) |
+| ResNet20  | CIFAR-100 |       72.58       | [Link](https://drive.google.com/drive/folders/1eKeeUzufJS8TA4EWLNhaXaufHIVTpBud?usp=sharing) |
+| ResNet20  | CIFAR-100 |       72.88       | [Link](https://drive.google.com/drive/folders/1wpCcp9UQw3UBT1SYF_9H5Obgj4Q76f-U?usp=sharing) |
+| ResNet32  | CIFAR-100 |       74.92       | [Link](https://drive.google.com/drive/folders/1vg6Ph8MtR2GRKoVFVz6h9y-rtTn52pC1?usp=sharing) |
+| ResNet32  | CIFAR-100 |       74.82       | [Link](https://drive.google.com/drive/folders/1G8jPej1B4_qrm8tpwZo3MeEOdM17gULz?usp=sharing) |
+| ResNet32  | CIFAR-100 |       74.82       | [Link](https://drive.google.com/drive/folders/1T37H_V1mc_-NqmV2NoL09f1BpEQ2MCtp?usp=sharing) |
+| ResNet56  | CIFAR-100 |       75.84       | [Link](https://drive.google.com/drive/folders/1L2KDKTqfgW3vkmgUNrlyWiKTA0XY8z1w?usp=sharing) |
+| ResNet56  | CIFAR-100 |       75.66       | [Link](https://drive.google.com/drive/folders/18CqXc667xNv27LWJEf3ozRVSMpV65dn6?usp=sharing) |
+| ResNet56  | CIFAR-100 |       75.91       | [Link](https://drive.google.com/drive/folders/1DATv0qyP1X2qYNMfHZ-fF2bVZzXuEJMb?usp=sharing) |
+| WRN-16-2  | CIFAR-100 |       75.87       | [Link](https://drive.google.com/drive/folders/16StA7XUG0VBVCzVjs3OEaJiNyOSbgNPu?usp=sharing) |
+| WRN-16-2  | CIFAR-100 |       75.86       | [Link](https://drive.google.com/drive/folders/18Jtxg1wX92yFLDAfidyDKvco2_IhCJnB?usp=sharing) |
+| WRN-16-2  | CIFAR-100 |       75.69       | [Link](https://drive.google.com/drive/folders/1aFhFC4UZxBCy5N1b1fhSClxGNUUqqqQ8?usp=sharing) |
+| WRN-40-2  | CIFAR-100 |       79.13       | [Link](https://drive.google.com/drive/folders/1L7obno--Zht7z6iHPaZG40I3Q4Zu1Dnz?usp=sharing) |
+| WRN-40-2  | CIFAR-100 |       79.19       | [Link](https://drive.google.com/drive/folders/1tbOPksWO-oU0cn4XC1SuBvzgsJR8T7-i?usp=sharing) |
+| WRN-40-2  | CIFAR-100 |       79.11       | [Link](https://drive.google.com/drive/folders/1OT1Hcpm6WhFmOBupTYSt5KMTSi9d0qYg?usp=sharing) |
+| DenseNet  | CIFAR-100 |       77.29       | [Link](https://drive.google.com/drive/folders/1ToE3eaZvUX20CxXius4MriLD4I22pkxq?usp=sharing) |
+| DenseNet  | CIFAR-100 |       77.70       | [Link](https://drive.google.com/drive/folders/11eG8TsQA0H1ugNO0I2vadzifA-dbP3Qj?usp=sharing) |
+| DenseNet  | CIFAR-100 |       77.17       | [Link](https://drive.google.com/drive/folders/1a0Ji8Q4Ff6-1FZN7dNPTR3J1qSB46CzD?usp=sharing) |
+| GoogLeNet | CIFAR-100 |       81.52       | [Link](https://drive.google.com/drive/folders/1w_YnXnYc8sxk4eCsPHXJggCP0dqh_5Zh?usp=sharing) |
+| GoogLeNet | CIFAR-100 |       81.93       | [Link](https://drive.google.com/drive/folders/1TuAV5gxFaqTqav6JaiLGgC7CCw599K4p?usp=sharing) |
+| GoogLeNet | CIFAR-100 |       81.34       | [Link](https://drive.google.com/drive/folders/1KO_lwgMVWJldF-JfGQsWZiNv4Jxa2Lp9?usp=sharing) |
+| ResNet-18 | ImageNet  |       70.87       | [Link](https://drive.google.com/drive/folders/1SqPrjziKZd1gMvF0Kq55Nf6r_DPoJIkx?usp=sharing) |
+| ResNet-34 | ImageNet  |       74.69       | [Link](https://drive.google.com/drive/folders/1CGxlkrVuMm0JBKg5Lxg5befagP2cN1Ys?usp=sharing) |
 
 You can use the following code to test our models.
 
